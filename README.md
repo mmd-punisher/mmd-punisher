@@ -1,6 +1,7 @@
 ## Welcome to My Profile ⛄
 
 <a href="https://www.djangoproject.com/" target="blank"><img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" height="100" width="100" /></a>
+<p></p>
 
 ### Django Back-End Developer
 
