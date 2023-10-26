@@ -1,13 +1,11 @@
 ## Welcome to My Profile ⛄
 
 <a href="https://www.djangoproject.com/" target="blank"><img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" height="100" width="100" /></a>
-<p></p>
 
-### Django Back-End Developer
+<h3>Django Back-End Developer</h3>
 
-###### 🍁 𝐿𝑒𝑡 𝑚𝑒 𝑤𝑟𝑖𝑡𝑒 𝑖𝑡 𝑎𝑙𝑙 𝑏𝑦 ℎ𝑎𝑛𝑑 𝐴𝑛𝑑 𝐼'𝑙𝑙 𝑏𝑒 𝑡ℎ𝑒 𝑜𝑛𝑒 𝐼'𝑚 𝑡𝑜𝑙𝑑 𝐼 𝑐𝑎𝑛𝑛𝑜𝑡 𝑏𝑒...
-###
-
+<p>🍁 𝐿𝑒𝑡 𝑚𝑒 𝑤𝑟𝑖𝑡𝑒 𝑖𝑡 𝑎𝑙𝑙 𝑏𝑦 ℎ𝑎𝑛𝑑 𝐴𝑛𝑑 𝐼'𝑙𝑙 𝑏𝑒 𝑡ℎ𝑒 𝑜𝑛𝑒 𝐼'𝑚 𝑡𝑜𝑙𝑑 𝐼 𝑐𝑎𝑛𝑛𝑜𝑡 𝑏𝑒... </p>
+<br></br>
 <hr></hr>
 
 - 💻 Django back-end developer
