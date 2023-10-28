@@ -28,6 +28,7 @@
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
 <hr></hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmd-punisher&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
