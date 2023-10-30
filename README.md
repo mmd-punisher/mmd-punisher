@@ -7,6 +7,7 @@
 <p>🍁 𝐿𝑒𝑡 𝑚𝑒 𝑤𝑟𝑖𝑡𝑒 𝑖𝑡 𝑎𝑙𝑙 𝑏𝑦 ℎ𝑎𝑛𝑑 𝐴𝑛𝑑 𝐼'𝑙𝑙 𝑏𝑒 𝑡ℎ𝑒 𝑜𝑛𝑒 𝐼'𝑚 𝑡𝑜𝑙𝑑 𝐼 𝑐𝑎𝑛𝑛𝑜𝑡 𝑏𝑒... </p>
 
 <hr></hr>
+<a href="#" target="blank"><img align="right" src="https://camo.githubusercontent.com/f4410ad6798e64d80125ecbef547328f7ccd0e6756b71b8865e319d47696c1b7/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966" height="100" width="250" /></a>
 
 - 💻 Django back-end developer
 - 🌱 I'm currently learning djnago rest framework
@@ -44,5 +45,6 @@
 <hr></hr>
 
 <a href="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" height="100" width="1000" /></a>
+
 
 [![](https://visitcount.itsvg.in/api?id=mmd-punisher&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
