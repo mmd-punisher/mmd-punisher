@@ -43,9 +43,8 @@
 <a href="https://www.linkedin.com/in/mohammad-mousapour-493a23256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <hr></hr>
+q-grid-snake.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" height="100" width="1000" /></a>
 
-<a href="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" height="100" width="1000" /></a>
-
-<a href="#" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4410ad6798e64d80125ecbef547328f7ccd0e6756b71b8865e319d47696c1b7/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966" height="150" width="300" /></a>
+<a href="#" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4410ad6798e64d80125ecbef547328f7ccd0e6756b71b8865e319d47696c1b7/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966" height="150" width="380" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=mmd-punisher&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
