@@ -35,9 +35,6 @@
 
 <hr></hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmd-punisher&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr></hr>
 
 ### Contact Me:
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
