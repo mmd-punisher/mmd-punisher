@@ -39,7 +39,7 @@
 
 ### Contact Me:
 <a href="https://t.me/last_mohammad" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://instagram.com/mmdetoun?igshid=YTQwZjQ0NmI0OA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<!--<a href="https://instagram.com/mmdetoun?igshid=YTQwZjQ0NmI0OA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>-->
 <a href="https://www.linkedin.com/in/mohammad-mousapour-493a23256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <hr></hr>
