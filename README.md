@@ -10,11 +10,10 @@
 
 
 - 💻 Django back-end developer
-- 🌱 I'm currently learning djnago rest framework
-- 🎓 I'm studying computer engineering at MAZUST
 - 📫 How to reach me: mohammadmoosapoor4@gmail.com
 - 🪐 Learning has no end 
-
+<!-- - 🌱 I'm currently learning djnago rest framework
+- 🎓 I'm studying computer engineering at MAZUST -->
 <hr></hr>
 
 ### My Skills:
@@ -25,14 +24,14 @@
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+-->
 ![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=lightgreen)
-![image](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+
 
 <hr></hr>
 
