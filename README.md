@@ -1,20 +1,14 @@
-## Welcome to My Profile ☕
+# Welcome to My Profile ☕
 
 <a href="#" target="blank"><img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" height="100" width="100" /></a>
 
 <h3>Django Back-End Developer</h3>
-
-<p>🍁 𝐿𝑒𝑡 𝑚𝑒 𝑤𝑟𝑖𝑡𝑒 𝑖𝑡 𝑎𝑙𝑙 𝑏𝑦 ℎ𝑎𝑛𝑑 𝐴𝑛𝑑 𝐼'𝑙𝑙 𝑏𝑒 𝑡ℎ𝑒 𝑜𝑛𝑒 𝐼'𝑚 𝑡𝑜𝑙𝑑 𝐼 𝑐𝑎𝑛𝑛𝑜𝑡 𝑏𝑒... </p>
-
-<hr></hr>
+✍️ I am Mohammad Mousapour, a Python developer specializing in the Django framework and passionate about web development. I always strive to keep my technical knowledge up to date through continuous learning and tracking emerging technologies. I focus on attention to detail, writing clean code, and mastering deeper programming concepts as my chosen pathways for growth in this field.
 
 
-- 💻 Django back-end developer
-- 📫 How to reach me: mohammadmoosapoor4@gmail.com
-- 🪐 Learning has no end 
-<!-- - 🌱 I'm currently learning djnago rest framework
-- 🎓 I'm studying computer engineering at MAZUST -->
-<hr></hr>
+🍁 𝐿𝑒𝑡 𝑚𝑒 𝑤𝑟𝑖𝑡𝑒 𝑖𝑡 𝑎𝑙𝑙 𝑏𝑦 ℎ𝑎𝑛𝑑 𝐴𝑛𝑑 𝐼'𝑙𝑙 𝑏𝑒 𝑡ℎ𝑒 𝑜𝑛𝑒 𝐼'𝑚 𝑡𝑜𝑙𝑑 𝐼 𝑐𝑎𝑛𝑛𝑜𝑡 𝑏𝑒...
+
+---
 
 ### My Skills:
 
@@ -33,17 +27,11 @@
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<hr></hr>
-
+---
 
 ### Contact Me:
+<a href="mailto:mohammadmoosapoor4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/last_mohammad" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohammad-mousapour-493a23256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--<a href="https://instagram.com/mmdetoun?igshid=YTQwZjQ0NmI0OA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>-->
-
-<hr></hr>
-
-
-
-[![](https://visitcount.itsvg.in/api?id=mmd-punisher&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
