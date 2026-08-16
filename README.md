@@ -3,7 +3,7 @@
 <a href="#" target="blank"><img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" height="100" width="100" /></a>
 
 <h3>Django Back-End Developer</h3>
-✍️ I am Mohammad Mousapour, a Python developer specializing in the Django framework and passionate about web development. I always strive to keep my technical knowledge up to date through continuous learning and tracking emerging technologies. I focus on attention to detail, writing clean code, and mastering deeper programming concepts as my chosen pathways for growth in this field.
+✍️ I am Mehrad, a Python developer specializing in the Django framework and passionate about web development. I always strive to keep my technical knowledge up to date through continuous learning and tracking emerging technologies. I focus on attention to detail, writing clean code, and mastering deeper programming concepts as my chosen pathways for growth in this field.
 
 
 🍁 𝐿𝑒𝑡 𝑚𝑒 𝑤𝑟𝑖𝑡𝑒 𝑖𝑡 𝑎𝑙𝑙 𝑏𝑦 ℎ𝑎𝑛𝑑 𝐴𝑛𝑑 𝐼'𝑙𝑙 𝑏𝑒 𝑡ℎ𝑒 𝑜𝑛𝑒 𝐼'𝑚 𝑡𝑜𝑙𝑑 𝐼 𝑐𝑎𝑛𝑛𝑜𝑡 𝑏𝑒...
