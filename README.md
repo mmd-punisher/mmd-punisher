@@ -46,6 +46,7 @@
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/mmdend/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@mohammadmoosapoor4" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.kaggle.com/mmdpunisher" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
 
@@ -53,6 +54,5 @@
 <a href="mailto:mmdend.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/mmdend/" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<img align="center" width="100%" src="gh-space-shooter.webp" />
 
 ![](https://komarev.com/ghpvc/?username=mmdend&color=blueviolet&style=flat)
