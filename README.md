@@ -53,6 +53,8 @@
 <a href="mailto:mmdend.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/mmdend/" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
+![My GitHub Game](game.gif)
+
 </br>
 
 ![](https://komarev.com/ghpvc/?username=mmdend&color=blueviolet&style=flat)
