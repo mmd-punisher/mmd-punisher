@@ -1,5 +1,6 @@
-<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+Mehrad+%E2%98%95"/>
+<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=400&width=2800&bannerText=Hello%2C+I+am+Mehrad+%E2%98%95"/>
 
+<!-- <img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+Mehrad+%E2%98%95"/> -->
 
 
 ## Django Backend Developer
